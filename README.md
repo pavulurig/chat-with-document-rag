@@ -21,9 +21,9 @@ This project provides an interactive interface to chat with documents using a Re
 
 - Clone the repository:
 ```bash
-git clone https://github.com/your-repository/project.git
+git clone git@github.com:gopikrsmscs/chat-with-document-rag.git
 
-cd project
+cd chat-with-document-rag
 ```
 - Install the required dependencies:
 ```bash
