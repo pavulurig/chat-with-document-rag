@@ -33,6 +33,8 @@ pip install streamlit langchain chromadb PyPDFLoader openai
 ```bash
 export OPENAI_API_KEY='your_openai_api_key'
 ```
+![Chat Interface Output](/chat_interface.png)
+
 # Features
 - Document Interaction: Chat with the content of the Transformer paper using a retrieval-augmented generation approach.
 - Contextual Responses: The model generates responses based on specific document sections, ensuring answers are relevant.
