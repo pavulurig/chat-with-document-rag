@@ -3,8 +3,8 @@ This project provides an interactive interface to chat with documents using a Re
 
 # Project Structure
 
-- augment_generation_chat.py: The main application file that sets up the Streamlit interface and handles the chat logic.
-- retrieval_process_document.ipynb: A Jupyter Notebook responsible for loading, splitting, and creating embeddings from the document.
+- retrieval_augment_generation_chat.py: The main application file that sets up the Streamlit interface and handles the chat logic.
+- document_indexing.ipynb: A Jupyter Notebook responsible for loading, splitting, and creating embeddings from the document.
 - Transformer.pdf: The primary document used for the chat context.
 - chromadb: Directory where the Chroma vector store persists the document embeddings.
 
